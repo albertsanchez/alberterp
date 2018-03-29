@@ -1,0 +1,8 @@
+{
+  "name": "alberterp",
+  "app_id": "c4c13e4a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
